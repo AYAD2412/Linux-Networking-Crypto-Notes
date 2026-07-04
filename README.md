@@ -42,4 +42,4 @@
 ---
 
 **Author:** Mohamed Ayman
-**Track:** RootX Academy — Cybersecurity Track (Cyber Wolves)
+**Track:** Cybersecurity Track 
